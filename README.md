@@ -3,7 +3,7 @@
 ### [Backlogs sheet][backlog], [Trello Board][trello], [UI][ui], [Database Design][db]
 
 
-[backlog]: <https://allegiscloud-my.sharepoint.com/:x:/r/personal/ksathvikreddy_actalentservices_com/Documents/Book.xlsx?d=w728d6941f1ce4e4887552391c5d2231c&csf=1&web=1&e=qEsgvP>
+[backlog]: <https://docs.google.com/spreadsheets/d/1ePXR2jrb9jbFA51EnuEY8hytAWHGKv7bDXWnlIVOPvA/edit?usp=sharing>
 
 [trello]: <https://trello.com/b/moKLpbZe/book-my-venue>
 
